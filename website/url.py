@@ -1,4 +1,4 @@
-from websit.views import about_view, contact_view, index_view
+from website.views import about_view, contact_view, index_view
 
 from django.urls import *
 
